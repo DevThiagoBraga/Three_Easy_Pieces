@@ -2,11 +2,7 @@
 
 <div align="center">
 
-![GitHub last commit](https://img.shields.io/github/last-commit/SEU_USUARIO/three-easy-pieces?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/SEU_USUARIO/three-easy-pieces?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/SEU_USUARIO/three-easy-pieces?style=for-the-badge)
-![GitHub top language](https://img.shields.io/github/languages/top/SEU_USUARIO/three-easy-pieces?style=for-the-badge)
-![License](https://img.shields.io/badge/License-Study-blue?style=for-the-badge)
+
 
 </div>
 
